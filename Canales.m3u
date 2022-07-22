@@ -1,367 +1,302 @@
 #EXTM3U
+#EXTINF:-1 Canal 24 Horas
 
-#EXTINF:-1 ,Red Dom  	
 
+#EXTINF:-1 ,Red Dom  24	
 https://iptv-org.github.io/iptv/countries/do.m3u
 
 
 
-#EXTINF:-1 ,Latinos
-
+#EXTINF:-1 ,Latinos 24
 https://iptv-org.github.io/iptv/languages/spa.m3u
 
 
 
-#EXTINF:-1 ,Colombia 
-
+#EXTINF:-1 ,Colombia 24
 https://iptv-org.github.io/iptv/countries/co.m3u
 
 
 
-#EXTINF:-1 ,Costa Rica 
-
+#EXTINF:-1 ,Costa Rica 24
 https://iptv-org.github.io/iptv/countries/cr.m3u
 
 
 
-#EXTINF:-1 ,Ecuador
-
+#EXTINF:-1 ,Ecuador 24
 https://iptv-org.github.io/iptv/countries/ec.m3u
 
 
 
-#EXTINF:-1 ,El Salvador
-
+#EXTINF:-1 ,El Salvador 24
 https://iptv-org.github.io/iptv/countries/ec.m3u
 
 
 
-#EXTINF:-1 ,Mexico
-
+#EXTINF:-1 ,Mexico 24
 https://iptv-org.github.io/iptv/countries/mx.m3u
 
 
 
-#EXTINF:-1 ,Peru 
-
+#EXTINF:-1 ,Peru 24
 https://iptv-org.github.io/iptv/countries/pe.m3u
 
 
 
-#EXTINF:-1 ,Paraguay
-
+#EXTINF:-1 ,Paraguay 24
 https://iptv-org.github.io/iptv/countries/py.m3u
 
 
 
-#EXTINF:-1 ,Panama 
-
+#EXTINF:-1 ,Panama 24
 https://iptv-org.github.io/iptv/countries/pa.m3u	
 
 
 
-#EXTINF:-1 ,Puerto Rico 
-
+#EXTINF:-1 ,Puerto Rico 24
 https://iptv-org.github.io/iptv/countries/pr.m3u	
 
 
 
-#EXTINF:-1 ,Spain 
-
+#EXTINF:-1 ,Spain 24
 https://iptv-org.github.io/iptv/countries/es.m3u
 
 
 
-#EXTINF:-1 ,Uruguay 
-
+#EXTINF:-1 ,Uruguay 24
 https://iptv-org.github.io/iptv/countries/uy.m3u
 
 
 
-#EXTINF:-1 ,Venezuela
-
+#EXTINF:-1 ,Venezuela 24
 https://iptv-org.github.io/iptv/countries/ve.m3u
 
 
 
-#EXTINF:-1 ,Auto 
-
+#EXTINF:-1 ,Auto 24
 https://iptv-org.github.io/iptv/categories/auto.m3u
 
 
 
-#EXTINF:-1 ,Business
-
+#EXTINF:-1 ,Business 24
 https://iptv-org.github.io/iptv/categories/business.m3u
 
 
 
-#EXTINF:-1 ,Comedy
-
+#EXTINF:-1 ,Comedy 24
 https://iptv-org.github.io/iptv/categories/comedy.m3u
 
 
 
-#EXTINF:-1 ,Education 
-
+#EXTINF:-1 ,Education 24
 https://iptv-org.github.io/iptv/categories/education.m3u
 
 
 
-#EXTINF:-1 ,Documentary
-
+#EXTINF:-1 ,Documentary 24
 https://iptv-org.github.io/iptv/categories/documentary.m3u
 
 
 
-#EXTINF:-1 ,Entertainment
-
+#EXTINF:-1 ,Entertainment 24
 https://iptv-org.github.io/iptv/categories/entertainment.m3u
 
 
 
-#EXTINF:-1 ,Family
-
+#EXTINF:-1 ,Family 24
 https://iptv-org.github.io/iptv/categories/family.m3u
 
 
 
-#EXTINF:-1 ,Fashion 
-
+#EXTINF:-1 ,Fashion 24
 https://iptv-org.github.io/iptv/categories/fashion.m3u
 
 
 
-#EXTINF:-1 ,Food
-
+#EXTINF:-1 ,Food 24
 https://iptv-org.github.io/iptv/categories/food.m3u
 
 
 
-#EXTINF:-1 ,General 
-
+#EXTINF:-1 ,General 24
 https://iptv-org.github.io/iptv/categories/general.m3u
 
 
 
-#EXTINF:-1 ,Health 
-
+#EXTINF:-1 ,Health 24
 https://iptv-org.github.io/iptv/categories/health.m3u
 
 
 
-#EXTINF:-1 ,History 
-
+#EXTINF:-1 ,History 24
 https://iptv-org.github.io/iptv/categories/history.m3u
 
 
 
-#EXTINF:-1 ,Hobby
-
+#EXTINF:-1 ,Hobby 24
 https://iptv-org.github.io/iptv/categories/hobby.m3u
 
 
 
-#EXTINF:-1 ,Kids
-
+#EXTINF:-1 ,Kids 24
 https://iptv-org.github.io/iptv/categories/kids.m3u
 
 
 
-#EXTINF:-1 ,Legislative 
-
+#EXTINF:-1 ,Legislative 24
 https://iptv-org.github.io/iptv/categories/legislative.m3u
 
 
 
-#EXTINF:-1 ,Lifestyle 
-
+#EXTINF:-1 ,Lifestyle 24
 https://iptv-org.github.io/iptv/categories/lifestyle.m3u
 
 
 
-#EXTINF:-1 ,Local 
-
+#EXTINF:-1 ,Local 24
 https://iptv-org.github.io/iptv/categories/local.m3u
 
 
 
-#EXTINF:-1 ,Movies
-
+#EXTINF:-1 ,Movies 24
 https://iptv-org.github.io/iptv/categories/movies.m3u
 
 
 
-#EXTINF:-1 ,Music 
-
+#EXTINF:-1 ,Music 24
 https://iptv-org.github.io/iptv/categories/music.m3u
 
 
 
-#EXTINF:-1 ,News 
-
+#EXTINF:-1 ,News 24
 https://iptv-org.github.io/iptv/categories/news.m3u
 
 
 
-#EXTINF:-1 ,Religious 
-
+#EXTINF:-1 ,Religious 24
 https://iptv-org.github.io/iptv/categories/news.m3u
 
 
 
-#EXTINF:-1 ,Shop 
-
+#EXTINF:-1 ,Shop 24
 https://iptv-org.github.io/iptv/categories/shop.m3u
 
 
 
-#EXTINF:-1 ,Sport
-
+#EXTINF:-1 ,Sport 24
 https://iptv-org.github.io/iptv/categories/sport.m3u
 
 
 
-#EXTINF:-1 ,Travel
-
+#EXTINF:-1 ,Travel 24
 https://iptv-org.github.io/iptv/categories/travel.m3u
 
 
 
-#EXTINF:-1 ,Weather
-
+#EXTINF:-1 ,Weather 24
 https://iptv-org.github.io/iptv/categories/weather.m3u
 
 
-
-#EXTINF:-1 ,Other
-
-https://iptv-org.github.io/iptv/categories/other.m3u
-
-
-
-#EXTINF:-1 ,Akan
-
+#EXTINF:-1 ,Akan 24
 https://iptv-org.github.io/iptv/languages/aka.m3u
 
 
 
-#EXTINF:-1 ,Albania 
-
+#EXTINF:-1 ,Albania 24
 https://iptv-org.github.io/iptv/languages/sqi.m3u
 
 
 
-#EXTINF:-1 ,Amharic 
-
+#EXTINF:-1 ,Amharic 24
 https://iptv-org.github.io/iptv/languages/amh.m3u
 
 
 
-#EXTINF:-1 ,Arabic
-
+#EXTINF:-1 ,Arabic 24
 https://iptv-org.github.io/iptv/languages/ara.m3u
 
 
 
-#EXTINF:-1 ,Armenian 
-
+#EXTINF:-1 ,Armenian 24
 https://iptv-org.github.io/iptv/languages/hye.m3u
 
 
 
-#EXTINF:-1 ,Azerbaijani 
-
+#EXTINF:-1 ,Azerbaijani 24
 https://iptv-org.github.io/iptv/languages/aze.m3u
 
 
 
-#EXTINF:-1 ,Bengali
-
+#EXTINF:-1 ,Bengali 24
 https://iptv-org.github.io/iptv/languages/ben.m3u
 
 
 
-#EXTINF:-1 ,Bosnian 
-
+#EXTINF:-1 ,Bosnian 24
 https://iptv-org.github.io/iptv/languages/bos.m3u
 
 
 
-#EXTINF:-1 ,Bulgarian
-
+#EXTINF:-1 ,Bulgarian 24
 https://iptv-org.github.io/iptv/languages/bul.m3u
 
 
 
-#EXTINF:-1 ,Burmese
-
+#EXTINF:-1 ,Burmese 24
 https://iptv-org.github.io/iptv/languages/mya.m3u
 
 
 
-#EXTINF:-1 ,Catalan 
-
+#EXTINF:-1 ,Catalan 24
 https://iptv-org.github.io/iptv/languages/cat.m3u
 
 
 
-#EXTINF:-1 ,Chinese 
-
+#EXTINF:-1 ,Chinese 24
 https://iptv-org.github.io/iptv/languages/zho.m3u
 
 
 
-#EXTINF:-1 ,Croatian
-
+#EXTINF:-1 ,Croatian 24
 https://iptv-org.github.io/iptv/languages/hrv.m3u
 
 
 
-#EXTINF:-1 ,Czech
-
+#EXTINF:-1 ,Czech 24
 https://iptv-org.github.io/iptv/languages/ces.m3u
 
 
 
-#EXTINF:-1 ,Danish 
-
+#EXTINF:-1 ,Danish 24
 https://iptv-org.github.io/iptv/languages/dan.m3u
 
 
 
-#EXTINF:-1 ,Dutch
-
+#EXTINF:-1 ,Dutch 24
 https://iptv-org.github.io/iptv/languages/nld.m3u
 
 
 
-#EXTINF:-1 ,English 
-
+#EXTINF:-1 ,English 24
 https://iptv-org.github.io/iptv/languages/eng.m3u
 
 
 
-#EXTINF:-1 ,Estonian 
-
+#EXTINF:-1 ,Estonian 24
 https://iptv-org.github.io/iptv/languages/est.m3u
 
 
 
-#EXTINF:-1 ,Faroese
-
+#EXTINF:-1 ,Faroese 24
 https://iptv-org.github.io/iptv/languages/fao.m3u
 
 
 
-#EXTINF:-1 ,Finish
-
+#EXTINF:-1 ,Finish 24
 https://iptv-org.github.io/iptv/languages/fin.m3u
 
 
 
-#EXTINF:-1 ,French
-
+#EXTINF:-1 ,French 24
 https://iptv-org.github.io/iptv/languages/fra.m3u
 
 
